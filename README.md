@@ -1,23 +1,22 @@
 <!--suppress HtmlDeprecatedAttribute -->
-# Hello! 👋 Who am I? #
+# Hello! 👋 Im Siawash Golmohamadi #
 <div>
 <br/>
-💻 I’m a backend developer with 2 years of experience working with:
+💻 I’m a backend developer working with:
 
 Python & Django<br>
 Django REST Framework<br>
-Docker, Redis, and Celery
-PostgreSQL and relational databases
-🗃️ I'm passionate about databases and constantly working to deepen my knowledge of relational database systems.
+Docker, PostgreSQL, and Redis</br>
+🗃️ I'm passionate about databases and constantly working to deepen my knowledge of relational database systems.</br>
 
-🚀 I enjoy designing and building robust and scalable backends.
+🚀 I enjoy designing and building robust and scalable backends.</br>
 🤝 I’m open to collaboration opportunities and excited to work on challenging projects</br>
 
 </div>
 
 
 
-# 💻 My tools and technologies
+# 💻 My skills
 <div style="display: flex; align-items: flex-start; align: center">
 <table align="center">
   <tr>
