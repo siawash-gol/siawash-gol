@@ -4,13 +4,13 @@
 <br/>
 <h3>💻 I’m a backend developer working with:</h3>
 
-Python & Django<br>
+<h3>Python & Django<br>
 Django REST Framework<br>
 Docker, PostgreSQL, and Redis</br>
 🗃️ I'm passionate about databases and constantly working to deepen my knowledge of relational database systems.</br>
 
 🚀 I enjoy designing and building robust and scalable backends.</br>
-🤝 I’m open to collaboration opportunities and excited to work on challenging projects</br>
+🤝 I’m open to collaboration opportunities and excited to work on challenging projects</br></h3>
 
 </div>
 
